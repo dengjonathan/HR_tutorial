@@ -1,4 +1,4 @@
-Based on my tutorial here:
+Based on my tutorial here: https://medium.com/@JonDeng/a-contrarian-guide-to-getting-into-hack-reactor-a2ee07c8a3a8#.64519vd3f
 
 Two problems with two solutions.
 
